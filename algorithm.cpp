@@ -1,5 +1,6 @@
 #include "algorithm.h"
 #include "gui.h"
+#include "showProfile.h"
 
 using namespace std;
 

@@ -1,3 +1,4 @@
 output/
 .history/
 .vscode/
+!output/"Dulieu.dat"

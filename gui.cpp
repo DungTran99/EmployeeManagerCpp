@@ -143,24 +143,13 @@ void loading(const string& message, int delay, int length) {
         cout << (char)177; // layer duoi
     }
     for (int i = 0; i <= length; ++i) {
-    console::setColor(4);
-    console::gotoxy(0, 0);
-    cout << LOGO << endl;
-    console::resetColor();
         int percent = i * 100 / length;
         console::gotoxy(MENU_X+35,MENU_Y+2);
         cout << percent << "%"<< "  ";
         console::gotoxy(MENU_X+38 + i,MENU_Y+2);
         console::setColor(10);
         cout << (char)219; // layer tren
-    
         Sleep(delay);
-Sleep(1);
-    console::setColor(7);
-    console::gotoxy(0, 0);
-    cout << LOGO << endl;
-    console::resetColor();
-
     }
     cout << " Done!";
     console::gotoxy(MENU_X+41,MENU_Y+4);
@@ -303,6 +292,8 @@ void profileMenu(MenuContext& mainMenu, NhanVien *& danhSach) {
             case 2:
                 outputByFile(danhSach);
                 break;
+            case 3: 
+                
             default:
                 console::gotoxy(MENU_X, MENU_Y + STATISTIC_OFFSET_Y + 22);
                 cout << "Chuc nang dang phat trien..."; getch();
