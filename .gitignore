@@ -1,4 +1,5 @@
-output/
+output/*
 .history/
 .vscode/
-!output/"Dulieu.dat"
+# Loại trừ file quan trọng
+!output/Dulieu.dat
