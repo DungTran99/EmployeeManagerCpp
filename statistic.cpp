@@ -116,7 +116,7 @@ void drawBarChart(int x, int y, const string labels[], const int values[], int n
 
     int colSpace = 5;
     
-    // Vẽ các cột với hỗ trợ giá trị nhỏ tốt hơn
+    // Vẽ các cột với hỗ trợ giá trị nhỏ 
     for (int i = 0; i < n; i++) {
         int xPos = x + 14 + (i * colSpace);
         double percent = (double)values[i] / total * 100;
@@ -204,6 +204,7 @@ void drawFrameThongKeLuong(int x, int y, int tongNV) {
     console::gotoxy(x, y+2);
     cout << "----|----------------------------|----------|---------|--------------------------------------------------------------";
 }
+
 void drawPieChart(int x, int y, const vector<pair<string, int>>& data, int total) {
     const string pieChars[] = {
     "      ****      ",
@@ -233,19 +234,21 @@ void drawPieChart(int x, int y, const vector<pair<string, int>>& data, int total
     // Vẽ từng dòng của hình tròn
     for (int i = 0; i < rows; i++) {
         string line = pieChars[i];
-        int countStars = count(line.begin(), line.end(), '*');
+        int countStars = count(line.begin(), line.end(), '*');//dem so luong sao co trong 1 dong
         int drawn = 0;
         int printed = 0;
 
         console::gotoxy(x, y + 2 + i);
 
         for (size_t j = 0; j < data.size(); j++) {
-            int num = round((double)data[j].second / total * countStars);
+            int num = round((double)data[j].second / total * countStars);//round de lam tron so
+            //num = tinh so * de to mau cho moi phan du lieu
             if (j == data.size() - 1)
                 num = countStars - drawn; // đảm bảo đủ số ký tự
 
             int drawnForThis = 0;
             for (size_t k = 0; k < line.length() && drawnForThis < num; k++) {
+                //dk kiem tra: k nho hon 1 dong va nho hon so sao can to mau
                 if (line[k] == '*') {
                     console::setColor(j + 9);
                     cout << (char)219;
@@ -263,7 +266,7 @@ void drawPieChart(int x, int y, const vector<pair<string, int>>& data, int total
     // Chú thích
     for (size_t i = 0; i < data.size(); i++) {
         console::gotoxy(x, y + 20 + i);
-        console::setColor(i + 9);
+        console::setColor(i + 9);       
         cout << "\xDB\xDB ";
         console::resetColor();
         cout << data[i].first << ": "

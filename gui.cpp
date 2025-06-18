@@ -4,6 +4,7 @@
 #include "algorithm.cpp"
 #include "search.cpp"
 #include "statistic.cpp"
+#include "cuoiky.cpp"
 
 
 using namespace std;
@@ -667,6 +668,37 @@ void statisticMenu(MenuContext& mainMenu, NhanVien *& danhSach) {
         }
     }
 }
+//cuoi ky
+void cuoiKyMenu(MenuContext& mainMenu, NhanVien *& danhSach) {
+    const vector<string> stats = {
+        "A. Sap xep giam theo muc luong",
+        "B. Tim kiem theo khoang tuoi",
+        "C. Thong ke theo tuoi"
+    };
+
+    MenuContext statsticMenu(stats, 0,mainMenu.x + SECOND_MENU_X, mainMenu.y + STATISTIC_OFFSET_Y);
+    while (true) {
+        int choice = secondSelect(mainMenu, statsticMenu, 16, 0) ;// width va height duoc cong them
+        if (choice == -1) return;
+
+        switch (choice) {
+            case 0:
+                menuSapXep(danhSach);
+                break;  
+            case 1:
+                menuKhoangTuoi(danhSach);
+                break;  
+            case 2:
+                menuThongKe(danhSach);
+                break;
+            default:
+                console::gotoxy(MENU_X, MENU_Y + STATISTIC_OFFSET_Y + 22);
+                cout << "Chuc nang dang phat trien..."; getch();
+                break;
+        }
+    }
+}
+
 //menu chinh
 void menuGUI() {
     //khởi tạo đối tượng
@@ -682,7 +714,8 @@ void menuGUI() {
         "C. Sap Xep",
         "D. Tim Kiem",
         "E. Thong Ke",
-        "F. EXIT"
+        "F. Cuoi ky",
+        "H. EXIT"
     };
 
     MenuContext mainMenu(mainMenuList, 0, MENU_X, MENU_Y);
@@ -708,6 +741,9 @@ void menuGUI() {
             statisticMenu(mainMenu, danhSach);
             break;
         case 5:
+            cuoiKyMenu(mainMenu, danhSach);
+            break;
+        case 6:
             exit(0);
         default:
             console::gotoxy(MENU_X, MENU_Y + STATISTIC_OFFSET_Y + 22);

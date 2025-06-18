@@ -1,7 +1,7 @@
 #include"gui.cpp"
 
 int main(){
-    //menuGUI();
-    loading();
+    menuGUI();
+    //loading();
     return 0;
 }
