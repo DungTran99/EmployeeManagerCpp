@@ -1,0 +1,614 @@
+CB,Can bo,2014000100,Nguyen Van An,Truong phong,15|03|1975,5000000
+TC,Tai chinh,2014000101,Tran Thi Bich,Ke toan,22|07|1980,4800000
+HC,Hau can,2014000102,Le Van Cuong,Nhan vien,10|11|1985,3200000
+TM,Tham muu,2014000103,Pham Thi Dung,Nhan vien,05|04|1990,3100000
+NS,Nhan su,2014000104,Hoang Van Em,Nhan vien,19|09|1978,3300000
+CT,Chinh tri,2014000105,Dang Thi Gai,Nhan vien,12|12|1982,4805000
+KD,Kinh doanh,2014000106,Trinh Van Hung,Chuyen vien,30|06|1987,3400000
+IT,Cong nghe thong tin,2014000107,Nguyen Thi Hong,Lap trinh vien,25|02|1993,4800000
+MK,Marketing,2014000108,Le Van Khai,Chuyen vien,08|08|1980,3150000
+CB,Can bo,2014000109,Pham Van Lan,Thu ky,14|05|1985,3100000
+TC,Tai chinh,2009398413,Hoang Thi Minh,Ke toan,03|10|1979,4800000
+NS,Nhan su,2014000110,Dang Van Ngoc,Nhan vien,27|01|1988,3300000
+CT,Chinh tri,2014000111,Tran Thi Phuc,Nhan vien,16|04|1983,4805000
+KD,Kinh doanh,2014000112,Nguyen Van Quynh,Quan ly du an,09|09|1992,4500000
+IT,Cong nghe thong tin,2014000113,Le Thi Son,Lap trinh vien,21|11|1986,4200000
+HC,Hau can,2014000114,Pham Van Tam,Nhan vien,07|06|1981,3200000
+TM,Tham muu,2014000115,Hoang Thi Thang,Nhan vien,18|03|1977,3100000
+CB,Can bo,2014000116,Dang Van Uyen,Tro ly,12|08|1989,3400000
+TC,Tai chinh,2014000117,Tran Thi Vinh,Ke toan,29|10|1984,4800000
+NS,Nhan su,2014000118,Nguyen Van Yen,Nhan vien,04|02|1990,3300000
+CT,Chinh tri,2014000119,Le Thi Bao,Nhan vien,23|05|1976,4805000
+KD,Kinh doanh,2014000120,Pham Van Cuc,Chuyen vien,11|07|1988,3500000
+IT,Cong nghe thong tin,2014000121,Hoang Thi Dai,Lap trinh vien,17|09|1983,4300000
+MK,Marketing,2014000122,Dang Van Hoa,Chuyen vien,06|12|1991,3200000
+CB,Can bo,2014000123,Tran Thi Khoa,Thu ky,28|02|1985,3050000
+TC,Tai chinh,2014000124,Nguyen Van Linh,Ke toan,15|04|1979,4800000
+HC,Hau can,2014000125,Le Thi Manh,Nhan vien,09|06|1987,3200000
+TM,Tham muu,2014000126,Pham Van Nga,Nhan vien,22|08|1982,3100000
+NS,Nhan su,2014000127,Hoang Thi Phu,Nhan vien,14|10|1990,3300000
+CT,Chinh tri,2014000128,Dang Van Quy,Nhan vien,03|12|1986,4805000
+KD,Kinh doanh,2014000129,Tran Thi Sang,Chuyen vien,19|03|1981,3400000
+IT,Cong nghe thong tin,2014000130,Nguyen Van Thao,Lap trinh vien,27|05|1989,4500000
+MK,Marketing,2014000131,Le Thi Tien,Chuyen vien,11|07|1984,3100000
+CB,Can bo,2014000132,Pham Van Uyen,Tro ly,05|09|1992,3400000
+TC,Tai chinh,2014000133,Hoang Thi Xuan,Ke toan,23|11|1978,4800000
+NS,Nhan su,2014000134,Dang Van Anh,Nhan vien,08|01|1985,3300000
+CT,Chinh tri,2014000135,Tran Thi Binh,Nhan vien,16|03|1990,4805000
+KD,Kinh doanh,2014000136,Nguyen Van Cam,Quan ly du an,12|05|1983,3500000
+IT,Cong nghe thong tin,2014000137,Le Thi Dan,Lap trinh vien,29|07|1988,4200000
+HC,Hau can,2014000138,Pham Van Diep,Nhan vien,04|09|1981,3200000
+TM,Tham muu,2014000139,Hoang Thi Giang,Nhan vien,21|11|1986,3100000
+NS,Nhan su,2014000140,Dang Van Huong,Nhan vien,09|01|1992,3300000
+CT,Chinh tri,2014000141,Tran Thi Khang,Nhan vien,17|03|1979,4805000
+CB,Can bo,2014000142,Nguyen Van Lan,Thu ky,06|05|1985,3050000
+TC,Tai chinh,2014000143,Le Thi Nam,Ke toan,28|07|1990,4800000
+KD,Kinh doanh,2014000144,Pham Van Oanh,Chuyen vien,14|09|1983,3400000
+IT,Cong nghe thong tin,2014000145,Hoang Thi Phat,Lap trinh vien,03|11|1988,4300000
+MK,Marketing,2014000146,Dang Van Quynh,Chuyen vien,22|01|1981,3100000
+CB,Can bo,2014000147,Tran Thi Sy,Tro ly,11|03|1986,3400000
+TC,Tai chinh,2014000148,Nguyen Van Thanh,Ke toan,05|05|1992,4800000
+HC,Hau can,2014000149,Le Thi Thien,Nhan vien,23|07|1987,3200000
+TM,Tham muu,2014000150,Pham Van Tuyet,Nhan vien,12|09|1982,3100000
+NS,Nhan su,2014000151,Hoang Thi Viet,Nhan vien,04|11|1990,3300000
+CT,Chinh tri,2014000152,Dang Van Xuan,Nhan vien,16|01|1985,4805000
+CB,Can bo,2014000153,Tran Thi Bach,Thu ky,28|03|1979,3050000
+TC,Tai chinh,2014000154,Nguyen Van Canh,Ke toan,09|05|1988,4800000
+KD,Kinh doanh,2014000155,Le Thi Dao,Chuyen vien,21|07|1983,3400000
+IT,Cong nghe thong tin,2014000156,Pham Van Hieu,Lap trinh vien,13|09|1991,4500000
+MK,Marketing,2014000157,Hoang Thi Kim,Chuyen vien,05|11|1986,3100000
+CB,Can bo,2014000158,Tran Thi Long,Tro ly,17|01|1982,3400000
+TC,Tai chinh,2014000159,Nguyen Van Mai,Ke toan,29|03|1989,4800000
+HC,Hau can,2014000160,Le Thi Nghia,Nhan vien,11|05|1984,3200000
+TM,Tham muu,2014000161,Pham Van Nhu,Nhan vien,23|07|1990,3100000
+NS,Nhan su,2014000162,Hoang Thi Phuoc,Nhan vien,04|09|1985,3300000
+CT,Chinh tri,2014000163,Dang Van Sen,Nhan vien,16|11|1981,4805000
+KD,Kinh doanh,2014000164,Tran Thi Tai,Chuyen vien,28|01|1987,3400000
+IT,Cong nghe thong tin,2014000165,Nguyen Van Tham,Lap trinh vien,09|03|1992,4500000
+MK,Marketing,2014000166,Le Thi Thanh,Chuyen vien,21|05|1986,3100000
+CB,Can bo,2014000167,Pham Van Trang,Thu ky,12|07|1983,3050000
+TC,Tai chinh,2014000168,Hoang Thi Tuan,Ke toan,04|09|1989,4800000
+NS,Nhan su,2014000169,Dang Van Van,Nhan vien,16|11|1984,3300000
+CT,Chinh tri,2014000170,Tran Thi Vinh,Nhan vien,28|01|1990,4805000
+KD,Kinh doanh,2014000171,Nguyen Van Yen,Quan ly du an,09|03|1985,3500000
+IT,Cong nghe thong tin,2014000172,Le Thi Be,Lap trinh vien,21|05|1981,4200000
+HC,Hau can,2014000173,Pham Van Cuong,Nhan vien,12|07|1987,3200000
+TM,Tham muu,2014000174,Hoang Thi Diem,Nhan vien,04|09|1982,3100000
+NS,Nhan su,2014000175,Dang Van Duc,Nhan vien,16|11|1990,3300000
+CT,Chinh tri,2014000176,Tran Thi Ha,Nhan vien,28|01|1986,4805000
+CB,Can bo,2014000177,Nguyen Van Hiep,Thu ky,09|03|1983,3050000
+TC,Tai chinh,2014000178,Le Thi Hong,Ke toan,21|05|1989,4800000
+KD,Kinh doanh,2014000179,Pham Van Khanh,Chuyen vien,12|07|1984,3400000
+IT,Cong nghe thong tin,2014000180,Hoang Thi Linh,Lap trinh vien,04|09|1991,4500000
+MK,Marketing,2014000181,Dang Van Minh,Chuyen vien,16|11|1985,3100000
+CB,Can bo,2014000182,Tran Thi Nga,Tro ly,28|01|1982,3400000
+TC,Tai chinh,2014000183,Nguyen Van Phu,Ke toan,09|03|1988,4800000
+HC,Hau can,2014000184,Le Thi Quy,Nhan vien,21|05|1983,3200000
+TM,Tham muu,2014000185,Pham Van Son,Nhan vien,12|07|1990,3100000
+NS,Nhan su,2014000186,Hoang Thi Tam,Nhan vien,04|09|1986,3300000
+CT,Chinh tri,2014000187,Dang Van Thang,Nhan vien,16|11|1981,4805000
+KD,Kinh doanh,2014000188,Tran Thi Thuy,Chuyen vien,28|01|1987,3400000
+IT,Cong nghe thong tin,2014000189,Nguyen Van Toan,Lap trinh vien,09|03|1992,4500000
+MK,Marketing,2014000190,Le Thi Uyen,Chuyen vien,21|05|1985,3100000
+CB,Can bo,2014000191,Pham Van Vinh,Thu ky,12|07|1983,3050000
+TC,Tai chinh,2014000192,Hoang Thi Xuan,Ke toan,04|09|1989,4800000
+NS,Nhan su,2014000193,Dang Van Anh,Nhan vien,16|11|1984,3300000
+CT,Chinh tri,2014000194,Tran Thi Be,Nhan vien,28|01|1990,4805000
+KD,Kinh doanh,2014000195,Nguyen Van Cuong,Quan ly du an,09|03|1985,3500000
+IT,Cong nghe thong tin,2014000196,Le Thi Diem,Lap trinh vien,21|05|1981,4200000
+HC,Hau can,2014000197,Pham Van Duc,Nhan vien,12|07|1987,3200000
+TM,Tham muu,2014000198,Hoang Thi Ha,Nhan vien,04|09|1982,3100000
+NS,Nhan su,2014000199,Dang Van Hiep,Nhan vien,16|11|1990,3300000
+CT,Chinh tri,2014000200,Tran Thi Hong,Nhan vien,28|01|1986,4805000
+CB,Can bo,2014000201,Nguyen Van Khanh,Thu ky,09|03|1983,3050000
+TC,Tai chinh,2014000202,Le Thi Linh,Ke toan,21|05|1989,4800000
+KD,Kinh doanh,2014000203,Pham Van Minh,Chuyen vien,12|07|1984,3400000
+IT,Cong nghe thong tin,2014000204,Hoang Thi Nga,Lap trinh vien,04|09|1991,4500000
+MK,Marketing,2014000205,Dang Van Phu,Chuyen vien,16|11|1985,3100000
+CB,Can bo,2014000206,Tran Thi Quy,Tro ly,28|01|1982,3400000
+TC,Tai chinh,2014000207,Nguyen Van Son,Ke toan,09|03|1988,4800000
+HC,Hau can,2014000208,Le Thi Tam,Nhan vien,21|05|1983,3200000
+TM,Tham muu,2014000209,Pham Van Thang,Nhan vien,12|07|1990,3100000
+NS,Nhan su,2014000210,Hoang Thi Thuy,Nhan vien,04|09|1986,3300000
+CT,Chinh tri,2014000211,Dang Van Toan,Nhan vien,16|11|1981,4805000
+KD,Kinh doanh,2014000212,Tran Thi Uyen,Chuyen vien,28|01|1987,3400000
+IT,Cong nghe thong tin,2014000213,Nguyen Van Vinh,Lap trinh vien,09|03|1992,4500000
+MK,Marketing,2014000214,Le Thi Xuan,Chuyen vien,21|05|1985,3100000
+CB,Can bo,2014000215,Pham Van Anh,Thu ky,12|07|1983,3050000
+TC,Tai chinh,2014000216,Hoang Thi Be,Ke toan,04|09|1989,4800000
+NS,Nhan su,2014000217,Dang Van Cuong,Nhan vien,16|11|1984,3300000
+CT,Chinh tri,2014000218,Tran Thi Diem,Nhan vien,28|01|1990,4805000
+KD,Kinh doanh,2014000219,Nguyen Van Duc,Quan ly du an,09|03|1985,3500000
+IT,Cong nghe thong tin,2014000220,Le Thi Ha,Lap trinh vien,21|05|1981,4200000
+HC,Hau can,2014000221,Pham Van Hiep,Nhan vien,12|07|1987,3200000
+TM,Tham muu,2014000222,Hoang Thi Hong,Nhan vien,04|09|1982,3100000
+NS,Nhan su,2014000223,Dang Van Khanh,Nhan vien,16|11|1990,3300000
+CT,Chinh tri,2014000224,Tran Thi Linh,Nhan vien,28|01|1986,4805000
+CB,Can bo,2014000225,Nguyen Van Minh,Thu ky,09|03|1983,3050000
+TC,Tai chinh,2014000226,Le Thi Nga,Ke toan,21|05|1989,4800000
+KD,Kinh doanh,2014000227,Pham Van Phu,Chuyen vien,12|07|1984,3400000
+IT,Cong nghe thong tin,2014000228,Hoang Thi Quy,Lap trinh vien,04|09|1991,4500000
+MK,Marketing,2014000229,Dang Van Son,Chuyen vien,16|11|1985,3100000
+CB,Can bo,2014000230,Tran Thi Thang,Tro ly,28|01|1982,3400000
+TC,Tai chinh,2014000231,Nguyen Van Thuy,Ke toan,09|03|1988,4800000
+HC,Hau can,2014000232,Le Thi Toan,Nhan vien,21|05|1983,3200000
+TM,Tham muu,2014000233,Pham Van Vinh,Nhan vien,12|07|1990,3100000
+NS,Nhan su,2014000234,Hoang Thi Xuan,Nhan vien,04|09|1986,3300000
+CT,Chinh tri,2014000235,Dang Van Anh,Nhan vien,16|11|1981,4805000
+KD,Kinh doanh,2014000236,Tran Thi Be,Chuyen vien,28|01|1987,3400000
+IT,Cong nghe thong tin,2014000237,Nguyen Van Cuong,Lap trinh vien,09|03|1992,4500000
+MK,Marketing,2014000238,Le Thi Diem,Chuyen vien,21|05|1985,3100000
+CB,Can bo,2014000239,Pham Van Duc,Thu ky,12|07|1983,3050000
+TC,Tai chinh,2014000240,Hoang Thi Ha,Ke toan,04|09|1989,4800000
+NS,Nhan su,2014000241,Dang Van Hiep,Nhan vien,16|11|1984,3300000
+CT,Chinh tri,2014000242,Tran Tuan Dung,Nhan vien,09|09|2005,4805000
+KD,Kinh doanh,2014000243,Nguyen Van Khanh,Quan ly du an,09|03|1985,3500000
+IT,Cong nghe thong tin,2014000244,Le Thi Linh,Lap trinh vien,21|05|1981,4200000
+HC,Hau can,2014000245,Pham Van Minh,Nhan vien,12|07|1987,3200000
+TM,Tham muu,2014000246,Hoang Thi Nga,Nhan vien,04|09|1982,3100000
+NS,Nhan su,2014000247,Dang Van Phu,Nhan vien,16|11|1990,3300000
+CT,Chinh tri,2014000248,Tran Thi Quy,Nhan vien,28|01|1986,4805000
+CB,Can bo,2014000249,Nguyen Van Son,Thu ky,09|03|1983,3050000
+TC,Tai chinh,2014000250,Le Thi Thang,Ke toan,21|05|1989,4800000
+KD,Kinh doanh,2014000251,Pham Van Thuy,Chuyen vien,12|07|1984,3400000
+IT,Cong nghe thong tin,2014000252,Hoang Thi Toan,Lap trinh vien,04|09|1991,4500000
+MK,Marketing,2014000253,Dang Van Vinh,Chuyen vien,16|11|1985,3100000
+CB,Can bo,2014000254,Tran Thi Xuan,Tro ly,28|01|1982,3400000
+TC,Tai chinh,2014000255,Nguyen Van Anh,Ke toan,09|03|1988,4800000
+HC,Hau can,2014000256,Le Thi Be,Nhan vien,21|05|1983,3200000
+TM,Tham muu,2014000257,Pham Van Cuong,Nhan vien,12|07|1990,3100000
+NS,Nhan su,2014000258,Hoang Thi Diem,Nhan vien,04|09|1986,3300000
+CT,Chinh tri,2014000259,Dang Van Duc,Nhan vien,16|11|1981,4805000
+KD,Kinh doanh,2014000260,Tran Thi Ha,Chuyen vien,28|01|1987,3400000
+IT,Cong nghe thong tin,2014000261,Nguyen Van Hiep,Lap trinh vien,09|03|1992,4500000
+MK,Marketing,2014000262,Le Thi Hong,Chuyen vien,21|05|1985,3100000
+CB,Can bo,2014000263,Pham Van Khanh,Thu ky,12|07|1983,3050000
+TC,Tai chinh,2014000264,Hoang Thi Linh,Ke toan,04|09|1989,4800000
+NS,Nhan su,2014000265,Dang Van Minh,Nhan vien,16|11|1984,3300000
+CT,Chinh tri,2014000266,Tran Thi Nga,Nhan vien,28|01|1990,4805000
+KD,Kinh doanh,2014000267,Nguyen Van Phu,Quan ly du an,09|03|1985,3500000
+IT,Cong nghe thong tin,2014000268,Le Thi Quy,Lap trinh vien,21|05|1981,4200000
+HC,Hau can,2014000269,Pham Van Son,Nhan vien,12|07|1987,3200000
+TM,Tham muu,2014000270,Hoang Thi Thang,Nhan vien,04|09|1982,3100000
+NS,Nhan su,2014000271,Dang Van Thuy,Nhan vien,16|11|1990,3300000
+CT,Chinh tri,2014000272,Tran Thi Toan,Nhan vien,28|01|1986,4805000
+CB,Can bo,2014000273,Nguyen Van Vinh,Thu ky,09|03|1983,3050000
+TC,Tai chinh,2014000274,Le Thi Xuan,Ke toan,21|05|1989,4800000
+KD,Kinh doanh,2014000275,Pham Van Anh,Chuyen vien,12|07|1984,3400000
+IT,Cong nghe thong tin,2014000276,Hoang Thi Be,Lap trinh vien,04|09|1991,4500000
+MK,Marketing,2014000277,Dang Van Cuong,Chuyen vien,16|11|1985,3100000
+CB,Can bo,2014000278,Tran Thi Diem,Tro ly,28|01|1982,3400000
+TC,Tai chinh,2014000279,Nguyen Van Duc,Ke toan,09|03|1988,4800000
+HC,Hau can,2014000280,Le Thi Ha,Nhan vien,21|05|1983,3200000
+TM,Tham muu,2014000281,Pham Van Hiep,Nhan vien,12|07|1990,3100000
+NS,Nhan su,2014000282,Hoang Thi Hong,Nhan vien,04|09|1986,3300000
+CT,Chinh tri,2014000283,Dang Van Khanh,Nhan vien,16|11|1981,4805000
+KD,Kinh doanh,2014000284,Tran Thi Linh,Chuyen vien,28|01|1987,3400000
+IT,Cong nghe thong tin,2014000285,Nguyen Van Minh,Lap trinh vien,09|03|1992,4500000
+MK,Marketing,2014000286,Le Thi Nga,Chuyen vien,21|05|1985,3100000
+CB,Can bo,2014000287,Pham Van Phu,Thu ky,12|07|1983,3050000
+TC,Tai chinh,2014000288,Hoang Thi Quy,Ke toan,04|09|1989,4800000
+NS,Nhan su,2014000289,Dang Van Son,Nhan vien,16|11|1984,3300000
+CT,Chinh tri,2014000290,Tran Thi Thang,Nhan vien,28|01|1990,4805000
+KD,Kinh doanh,2014000291,Nguyen Van Thuy,Quan ly du an,09|03|1985,3500000
+IT,Cong nghe thong tin,2014000292,Le Thi Toan,Lap trinh vien,21|05|1981,4200000
+HC,Hau can,2014000293,Pham Van Vinh,Nhan vien,12|07|1987,3200000
+TM,Tham muu,2014000294,Hoang Thi Xuan,Nhan vien,04|09|1982,3100000
+NS,Nhan su,2014000295,Dang Van Anh,Nhan vien,16|11|1990,3300000
+CT,Chinh tri,2014000296,Tran Thi Be,Nhan vien,28|01|1986,4805000
+CB,Can bo,2014000297,Nguyen Van Cuong,Thu ky,09|03|1983,3050000
+TC,Tai chinh,2014000298,Le Thi Diem,Ke toan,21|05|1989,4800000
+KD,Kinh doanh,2014000299,Pham Van Duc,Chuyen vien,12|07|1984,3400000
+IT,Cong nghe thong tin,2014000300,Hoang Thi Ha,Lap trinh vien,04|09|1991,4500000
+MK,Marketing,2014000301,Dang Van Hiep,Chuyen vien,16|11|1985,3100000
+CB,Can bo,2014000302,Tran Thi Hong,Tro ly,28|01|1982,3400000
+TC,Tai chinh,2014000303,Nguyen Van Khanh,Ke toan,09|03|1988,4800000
+HC,Hau can,2014000304,Le Thi Linh,Nhan vien,21|05|1983,3200000
+TM,Tham muu,2014000305,Pham Van Minh,Nhan vien,12|07|1990,3100000
+NS,Nhan su,2014000306,Hoang Thi Nga,Nhan vien,04|09|1986,3300000
+CT,Chinh tri,2014000307,Dang Van Phu,Nhan vien,16|11|1981,4805000
+KD,Kinh doanh,2014000308,Tran Thi Quy,Chuyen vien,28|01|1987,3400000
+IT,Cong nghe thong tin,2014000309,Nguyen Van Son,Lap trinh vien,09|03|1992,4500000
+MK,Marketing,2014000310,Le Thi Thang,Chuyen vien,21|05|1985,3100000
+CB,Can bo,2014000311,Pham Van Thuy,Thu ky,12|07|1983,3050000
+TC,Tai chinh,2014000312,Hoang Thi Toan,Ke toan,04|09|1989,4800000
+NS,Nhan su,2014000313,Dang Van Vinh,Nhan vien,16|11|1984,3300000
+CT,Chinh tri,2014000314,Tran Thi Xuan,Nhan vien,28|01|1990,4805000
+KD,Kinh doanh,2014000315,Nguyen Van Anh,Quan ly du an,09|03|1985,3500000
+IT,Cong nghe thong tin,2014000316,Le Thi Be,Lap trinh vien,21|05|1981,4200000
+HC,Hau can,2014000317,Pham Van Cuong,Nhan vien,12|07|1987,3200000
+TM,Tham muu,2014000318,Hoang Thi Diem,Nhan vien,04|09|1982,3100000
+NS,Nhan su,2014000319,Dang Van Duc,Nhan vien,16|11|1990,3300000
+CT,Chinh tri,2014000320,Tran Thi Ha,Nhan vien,28|01|1986,4805000
+CB,Can bo,2014000321,Nguyen Van Hiep,Thu ky,09|03|1983,3050000
+TC,Tai chinh,2014000322,Le Thi Hong,Ke toan,21|05|1989,4800000
+KD,Kinh doanh,2014000323,Pham Van Khanh,Chuyen vien,12|07|1984,3400000
+IT,Cong nghe thong tin,2014000324,Hoang Thi Linh,Lap trinh vien,04|09|1991,4500000
+MK,Marketing,2014000325,Dang Van Minh,Chuyen vien,16|11|1985,3100000
+CB,Can bo,2014000326,Tran Thi Nga,Tro ly,28|01|1982,3400000
+TC,Tai chinh,2014000327,Nguyen Van Phu,Ke toan,09|03|1988,4800000
+HC,Hau can,2014000328,Le Thi Quy,Nhan vien,21|05|1983,3200000
+TM,Tham muu,2014000329,Pham Van Son,Nhan vien,12|07|1990,3100000
+NS,Nhan su,2014000330,Hoang Thi Thang,Nhan vien,04|09|1986,3300000
+CT,Chinh tri,2014000331,Dang Van Thuy,Nhan vien,16|11|1981,4805000
+KD,Kinh doanh,2014000332,Tran Thi Toan,Chuyen vien,28|01|1987,3400000
+IT,Cong nghe thong tin,2014000333,Nguyen Van Vinh,Lap trinh vien,09|03|1992,4500000
+MK,Marketing,2014000334,Le Thi Xuan,Chuyen vien,21|05|1985,3100000
+CB,Can bo,2014000335,Pham Van Anh,Thu ky,12|07|1983,3050000
+TC,Tai chinh,2014000336,Hoang Thi Be,Ke toan,04|09|1989,4800000
+NS,Nhan su,2014000337,Dang Van Cuong,Nhan vien,16|11|1984,3300000
+CT,Chinh tri,2014000338,Tran Thi Diem,Nhan vien,28|01|1990,4805000
+KD,Kinh doanh,2014000339,Nguyen Van Duc,Quan ly du an,09|03|1985,3500000
+IT,Cong nghe thong tin,2014000340,Le Thi Ha,Lap trinh vien,21|05|1981,4200000
+HC,Hau can,2014000341,Pham Van Hiep,Nhan vien,12|07|1987,3200000
+TM,Tham muu,2014000342,Hoang Thi Hong,Nhan vien,04|09|1982,3100000
+NS,Nhan su,2014000343,Dang Van Khanh,Nhan vien,16|11|1990,3300000
+CT,Chinh tri,2014000344,Tran Thi Linh,Nhan vien,28|01|1986,4805000
+CB,Can bo,2014000345,Nguyen Van Minh,Thu ky,09|03|1983,3050000
+TC,Tai chinh,2014000346,Le Thi Nga,Ke toan,21|05|1989,4800000
+KD,Kinh doanh,2014000347,Pham Van Phu,Chuyen vien,12|07|1984,3400000
+IT,Cong nghe thong tin,2014000348,Hoang Thi Quy,Lap trinh vien,04|09|1991,4500000
+MK,Marketing,2014000349,Dang Van Son,Chuyen vien,16|11|1985,3100000
+CB,Can bo,2014000350,Tran Thi Thang,Tro ly,28|01|1982,3400000
+TC,Tai chinh,2014000351,Nguyen Van Thuy,Ke toan,09|03|1988,4800000
+HC,Hau can,2014000352,Le Thi Toan,Nhan vien,21|05|1983,3200000
+TM,Tham muu,2014000353,Pham Van Vinh,Nhan vien,12|07|1990,3100000
+NS,Nhan su,2014000354,Hoang Thi Xuan,Nhan vien,04|09|1986,3300000
+CT,Chinh tri,2014000355,Dang Van Anh,Nhan vien,16|11|1981,4805000
+KD,Kinh doanh,2014000356,Tran Thi Be,Chuyen vien,28|01|1987,3400000
+IT,Cong nghe thong tin,2014000357,Nguyen Van Cuong,Lap trinh vien,09|03|1992,4500000
+MK,Marketing,2014000358,Le Thi Diem,Chuyen vien,21|05|1985,3100000
+CB,Can bo,2014000359,Pham Van Duc,Thu ky,12|07|1983,3050000
+TC,Tai chinh,2014000360,Hoang Thi Ha,Ke toan,04|09|1989,4800000
+NS,Nhan su,2014000361,Dang Van Hiep,Nhan vien,16|11|1984,3300000
+CT,Chinh tri,2014000362,Tran Thi Hong,Nhan vien,28|01|1990,4805000
+KD,Kinh doanh,2014000363,Nguyen Van Khanh,Quan ly du an,09|03|1985,3500000
+IT,Cong nghe thong tin,2014000364,Le Thi Linh,Lap trinh vien,21|05|1981,4200000
+HC,Hau can,2014000365,Pham Van Minh,Nhan vien,12|07|1987,3200000
+TM,Tham muu,2014000366,Hoang Thi Nga,Nhan vien,04|09|1982,3100000
+NS,Nhan su,2014000367,Dang Van Phu,Nhan vien,16|11|1990,3300000
+CT,Chinh tri,2014000368,Tran Thi Quy,Nhan vien,28|01|1986,4805000
+CB,Can bo,2014000369,Nguyen Van Son,Thu ky,09|03|1983,3050000
+TC,Tai chinh,2014000370,Le Thi Thang,Ke toan,21|05|1989,4800000
+KD,Kinh doanh,2014000371,Pham Van Thuy,Chuyen vien,12|07|1984,3400000
+IT,Cong nghe thong tin,2014000372,Hoang Thi Toan,Lap trinh vien,04|09|1991,4500000
+MK,Marketing,2014000373,Dang Van Vinh,Chuyen vien,16|11|1985,3100000
+CB,Can bo,2014000374,Tran Thi Xuan,Tro ly,28|01|1982,3400000
+TC,Tai chinh,2014000375,Nguyen Van Anh,Ke toan,09|03|1988,4800000
+HC,Hau can,2014000376,Le Thi Be,Nhan vien,21|05|1983,3200000
+TM,Tham muu,2014000377,Pham Van Cuong,Nhan vien,12|07|1990,3100000
+NS,Nhan su,2014000378,Hoang Thi Diem,Nhan vien,04|09|1986,3300000
+CT,Chinh tri,2014000379,Dang Van Duc,Nhan vien,16|11|1981,4805000
+KD,Kinh doanh,2014000380,Tran Thi Ha,Chuyen vien,28|01|1987,3400000
+IT,Cong nghe thong tin,2014000381,Nguyen Van Hiep,Lap trinh vien,09|03|1992,4500000
+MK,Marketing,2014000382,Le Thi Hong,Chuyen vien,21|05|1985,3100000
+CB,Can bo,2014000383,Pham Van Khanh,Thu ky,12|07|1983,3050000
+TC,Tai chinh,2014000384,Hoang Thi Linh,Ke toan,04|09|1989,4800000
+NS,Nhan su,2014000385,Dang Van Minh,Nhan vien,16|11|1984,3300000
+CT,Chinh tri,2014000386,Tran Thi Nga,Nhan vien,28|01|1990,4805000
+KD,Kinh doanh,2014000387,Nguyen Van Phu,Quan ly du an,09|03|1985,3500000
+IT,Cong nghe thong tin,2014000388,Le Thi Quy,Lap trinh vien,21|05|1981,4200000
+HC,Hau can,2014000389,Pham Van Son,Nhan vien,12|07|1987,3200000
+TM,Tham muu,2014000390,Hoang Thi Thang,Nhan vien,04|09|1982,3100000
+NS,Nhan su,2014000391,Dang Van Thuy,Nhan vien,16|11|1990,3300000
+CT,Chinh tri,2014000392,Tran Thi Toan,Nhan vien,28|01|1986,4805000
+CB,Can bo,2014000393,Nguyen Van Vinh,Thu ky,09|03|1983,3050000
+TC,Tai chinh,2014000394,Le Thi Xuan,Ke toan,21|05|1989,4800000
+KD,Kinh doanh,2014000395,Pham Van Anh,Chuyen vien,12|07|1984,3400000
+IT,Cong nghe thong tin,2014000396,Hoang Thi Be,Lap trinh vien,04|09|1991,4500000
+MK,Marketing,2014000397,Dang Van Cuong,Chuyen vien,16|11|1985,3100000
+CB,Can bo,2014000398,Tran Thi Diem,Tro ly,28|01|1982,3400000
+TC,Tai chinh,2014000399,Nguyen Van Duc,Ke toan,09|03|1988,4800000
+HC,Hau can,2014000400,Le Thi Ha,Nhan vien,21|05|1983,3200000
+TM,Tham muu,2014000401,Pham Van Hiep,Nhan vien,12|07|1990,3100000
+NS,Nhan su,2014000402,Hoang Thi Hong,Nhan vien,04|09|1986,3300000
+CT,Chinh tri,2014000403,Dang Van Khanh,Nhan vien,16|11|1981,4805000
+KD,Kinh doanh,2014000404,Tran Thi Linh,Chuyen vien,28|01|1987,3400000
+IT,Cong nghe thong tin,2014000405,Nguyen Van Minh,Lap trinh vien,09|03|1992,4500000
+MK,Marketing,2014000406,Le Thi Nga,Chuyen vien,21|05|1985,3100000
+CB,Can bo,2014000407,Pham Van Phu,Thu ky,12|07|1983,3050000
+TC,Tai chinh,2014000408,Hoang Thi Quy,Ke toan,04|09|1989,4800000
+NS,Nhan su,2014000409,Dang Van Son,Nhan vien,16|11|1984,3300000
+CT,Chinh tri,2014000410,Tran Thi Thang,Nhan vien,28|01|1990,4805000
+KD,Kinh doanh,2014000411,Nguyen Van Thuy,Quan ly du an,09|03|1985,3500000
+IT,Cong nghe thong tin,2014000412,Le Thi Toan,Lap trinh vien,21|05|1981,4200000
+HC,Hau can,2014000413,Pham Van Vinh,Nhan vien,12|07|1987,3200000
+TM,Tham muu,2014000414,Hoang Thi Xuan,Nhan vien,04|09|1982,3100000
+NS,Nhan su,2014000415,Dang Van Anh,Nhan vien,16|11|1990,3300000
+CT,Chinh tri,2014000416,Tran Thi Be,Nhan vien,28|01|1986,4805000
+CB,Can bo,2014000417,Nguyen Van Cuong,Thu ky,09|03|1983,3050000
+TC,Tai chinh,2014000418,Le Thi Diem,Ke toan,21|05|1989,4800000
+KD,Kinh doanh,2014000419,Pham Van Duc,Chuyen vien,12|07|1984,3400000
+IT,Cong nghe thong tin,2014000420,Hoang Thi Ha,Lap trinh vien,04|09|1991,4500000
+MK,Marketing,2014000421,Dang Van Hiep,Chuyen vien,16|11|1985,3100000
+CB,Can bo,2014000422,Tran Thi Hong,Tro ly,28|01|1982,3400000
+TC,Tai chinh,2014000423,Nguyen Van Khanh,Ke toan,09|03|1988,4800000
+HC,Hau can,2014000424,Le Thi Linh,Nhan vien,21|05|1983,3200000
+TM,Tham muu,2014000425,Pham Van Minh,Nhan vien,12|07|1990,3100000
+NS,Nhan su,2014000426,Hoang Thi Nga,Nhan vien,04|09|1986,3300000
+CT,Chinh tri,2014000427,Dang Van Phu,Nhan vien,16|11|1981,4805000
+KD,Kinh doanh,2014000428,Tran Thi Quy,Chuyen vien,28|01|1987,3400000
+IT,Cong nghe thong tin,2014000429,Nguyen Van Son,Lap trinh vien,09|03|1992,4500000
+MK,Marketing,2014000430,Le Thi Thang,Chuyen vien,21|05|1985,3100000
+CB,Can bo,2014000431,Pham Van Thuy,Thu ky,12|07|1983,3050000
+TC,Tai chinh,2014000432,Hoang Thi Toan,Ke toan,04|09|1989,4800000
+NS,Nhan su,2014000433,Dang Van Vinh,Nhan vien,16|11|1984,3300000
+CT,Chinh tri,2014000434,Tran Thi Xuan,Nhan vien,28|01|1990,4805000
+KD,Kinh doanh,2014000435,Nguyen Van Anh,Quan ly du an,09|03|1985,3500000
+IT,Cong nghe thong tin,2014000436,Le Thi Be,Lap trinh vien,21|05|1981,4200000
+HC,Hau can,2014000437,Pham Van Cuong,Nhan vien,12|07|1987,3200000
+TM,Tham muu,2014000438,Hoang Thi Diem,Nhan vien,04|09|1982,3100000
+NS,Nhan su,2014000439,Dang Van Duc,Nhan vien,16|11|1990,3300000
+CT,Chinh tri,2014000440,Tran Thi Ha,Nhan vien,28|01|1986,4805000
+CB,Can bo,2014000441,Nguyen Van Hiep,Thu ky,09|03|1983,3050000
+TC,Tai chinh,2014000442,Le Thi Hong,Ke toan,21|05|1989,4800000
+KD,Kinh doanh,2014000443,Pham Van Khanh,Chuyen vien,12|07|1984,3400000
+IT,Cong nghe thong tin,2014000444,Hoang Thi Linh,Lap trinh vien,04|09|1991,4500000
+MK,Marketing,2014000445,Dang Van Minh,Chuyen vien,16|11|1985,3100000
+CB,Can bo,2014000446,Tran Thi Nga,Tro ly,28|01|1982,3400000
+TC,Tai chinh,2014000447,Nguyen Van Phu,Ke toan,09|03|1988,4800000
+HC,Hau can,2014000448,Le Thi Quy,Nhan vien,21|05|1983,3200000
+TM,Tham muu,2014000449,Pham Van Son,Nhan vien,12|07|1990,3100000
+NS,Nhan su,2014000450,Hoang Thi Thang,Nhan vien,04|09|1986,3300000
+CT,Chinh tri,2014000451,Dang Van Thuy,Nhan vien,16|11|1981,4805000
+KD,Kinh doanh,2014000452,Tran Thi Toan,Chuyen vien,28|01|1987,3400000
+IT,Cong nghe thong tin,2014000453,Nguyen Van Vinh,Lap trinh vien,09|03|1992,4500000
+MK,Marketing,2014000454,Le Thi Xuan,Chuyen vien,21|05|1985,3100000
+CB,Can bo,2014000455,Pham Van Anh,Thu ky,12|07|1983,3050000
+TC,Tai chinh,2014000456,Hoang Thi Be,Ke toan,04|09|1989,4800000
+NS,Nhan su,2014000457,Dang Van Cuong,Nhan vien,16|11|1984,3300000
+CT,Chinh tri,2014000458,Tran Thi Diem,Nhan vien,28|01|1990,4805000
+KD,Kinh doanh,2014000459,Nguyen Van Duc,Quan ly du an,09|03|1985,3500000
+IT,Cong nghe thong tin,2014000460,Le Thi Ha,Lap trinh vien,21|05|1981,4200000
+HC,Hau can,2014000461,Pham Van Hiep,Nhan vien,12|07|1987,3200000
+TM,Tham muu,2014000462,Hoang Thi Hong,Nhan vien,04|09|1982,3100000
+NS,Nhan su,2014000463,Dang Van Khanh,Nhan vien,16|11|1990,3300000
+CT,Chinh tri,2014000464,Tran Thi Linh,Nhan vien,28|01|1986,4805000
+CB,Can bo,2014000465,Nguyen Van Minh,Thu ky,09|03|1983,3050000
+TC,Tai chinh,2014000466,Le Thi Nga,Ke toan,21|05|1989,4800000
+KD,Kinh doanh,2014000467,Pham Van Phu,Chuyen vien,12|07|1984,3400000
+IT,Cong nghe thong tin,2014000468,Hoang Thi Quy,Lap trinh vien,04|09|1991,4500000
+MK,Marketing,2014000469,Dang Van Son,Chuyen vien,16|11|1985,3100000
+CB,Can bo,2014000470,Tran Thi Thang,Tro ly,28|01|1982,3400000
+TC,Tai chinh,2014000471,Nguyen Van Thuy,Ke toan,09|03|1988,4800000
+HC,Hau can,2014000472,Le Thi Toan,Nhan vien,21|05|1983,3200000
+TM,Tham muu,2014000473,Pham Van Vinh,Nhan vien,12|07|1990,3100000
+NS,Nhan su,2014000474,Hoang Thi Xuan,Nhan vien,04|09|1986,3300000
+CT,Chinh tri,2014000475,Dang Van Anh,Nhan vien,16|11|1981,4805000
+KD,Kinh doanh,2014000476,Tran Thi Be,Chuyen vien,28|01|1987,3400000
+IT,Cong nghe thong tin,2014000477,Nguyen Van Cuong,Lap trinh vien,09|03|1992,4500000
+MK,Marketing,2014000478,Le Thi Diem,Chuyen vien,21|05|1985,3100000
+CB,Can bo,2014000479,Pham Van Duc,Thu ky,12|07|1983,3050000
+TC,Tai chinh,2014000480,Hoang Thi Ha,Ke toan,04|09|1989,4800000
+NS,Nhan su,2014000481,Dang Van Hiep,Nhan vien,16|11|1984,3300000
+CT,Chinh tri,2014000482,Tran Thi Hong,Nhan vien,28|01|1990,4805000
+KD,Kinh doanh,2014000483,Nguyen Van Khanh,Quan ly du an,09|03|1985,3500000
+IT,Cong nghe thong tin,2014000484,Le Thi Linh,Lap trinh vien,21|05|1981,4200000
+HC,Hau can,2014000485,Pham Van Minh,Nhan vien,12|07|1987,3200000
+TM,Tham muu,2014000486,Hoang Thi Nga,Nhan vien,04|09|1982,3100000
+NS,Nhan su,2014000487,Dang Van Phu,Nhan vien,16|11|1990,3300000
+CT,Chinh tri,2014000488,Tran Thi Quy,Nhan vien,28|01|1986,4805000
+CB,Can bo,2014000489,Nguyen Van Son,Thu ky,09|03|1983,3050000
+TC,Tai chinh,2014000490,Le Thi Thang,Ke toan,21|05|1989,4800000
+KD,Kinh doanh,2014000491,Pham Van Thuy,Chuyen vien,12|07|1984,3400000
+IT,Cong nghe thong tin,2014000492,Hoang Thi Toan,Lap trinh vien,04|09|1991,4500000
+MK,Marketing,2014000493,Dang Van Vinh,Chuyen vien,16|11|1985,3100000
+CB,Can bo,2014000494,Tran Thi Xuan,Tro ly,28|01|1982,3400000
+TC,Tai chinh,2014000495,Nguyen Van Anh,Ke toan,09|03|1988,4800000
+HC,Hau can,2014000496,Le Thi Be,Nhan vien,21|05|1983,3200000
+TM,Tham muu,2014000497,Pham Van Cuong,Nhan vien,12|07|1990,3100000
+NS,Nhan su,2014000498,Hoang Thi Diem,Nhan vien,04|09|1986,3300000
+CT,Chinh tri,2014000499,Tran Thi Ha,Nhan vien,28|01|1986,4805000
+KD,Kinh doanh,2014000500,Nguyen Van Hiep,Quan ly du an,09|03|1985,3500000
+IT,Cong nghe thong tin,2014000501,Le Thi Hong,Lap trinh vien,21|05|1981,4200000
+MK,Marketing,2014000502,Dang Van Khanh,Chuyen vien,16|11|1985,3100000
+CB,Can bo,2014000503,Tran Thi Linh,Thu ky,28|01|1982,3050000
+TC,Tai chinh,2014000504,Nguyen Van Minh,Ke toan,09|03|1988,4800000
+HC,Hau can,2014000505,Le Thi Nga,Nhan vien,21|05|1983,3200000
+TM,Tham muu,2014000506,Pham Van Phu,Nhan vien,12|07|1990,3100000
+NS,Nhan su,2014000507,Hoang Thi Quy,Nhan vien,04|09|1986,3300000
+CT,Chinh tri,2014000508,Dang Van Son,Nhan vien,16|11|1981,4805000
+KD,Kinh doanh,2014000509,Tran Thi Thang,Chuyen vien,28|01|1987,3400000
+IT,Cong nghe thong tin,2014000510,Nguyen Van Thuy,Lap trinh vien,09|03|1992,4500000
+MK,Marketing,2014000511,Le Thi Toan,Chuyen vien,21|05|1985,3100000
+CB,Can bo,2014000512,Pham Van Vinh,Thu ky,12|07|1983,3050000
+TC,Tai chinh,2014000513,Hoang Thi Xuan,Ke toan,04|09|1989,4800000
+NS,Nhan su,2014000514,Dang Van Anh,Nhan vien,16|11|1984,3300000
+CT,Chinh tri,2014000515,Tran Thi Be,Nhan vien,28|01|1990,4805000
+KD,Kinh doanh,2014000516,Nguyen Van Cuong,Quan ly du an,09|03|1985,3500000
+IT,Cong nghe thong tin,2014000517,Le Thi Diem,Lap trinh vien,21|05|1981,4200000
+HC,Hau can,2014000518,Pham Van Duc,Nhan vien,12|07|1987,3200000
+TM,Tham muu,2014000519,Hoang Thi Ha,Nhan vien,04|09|1982,3100000
+NS,Nhan su,2014000520,Dang Van Hiep,Nhan vien,16|11|1990,3300000
+CT,Chinh tri,2014000521,Tran Thi Hong,Nhan vien,28|01|1986,4805000
+CB,Can bo,2014000522,Nguyen Van Khanh,Thu ky,09|03|1983,3050000
+TC,Tai chinh,2014000523,Le Thi Linh,Ke toan,21|05|1989,4800000
+KD,Kinh doanh,2014000524,Pham Van Minh,Chuyen vien,12|07|1984,3400000
+IT,Cong nghe thong tin,2014000525,Hoang Thi Nga,Lap trinh vien,04|09|1991,4500000
+MK,Marketing,2014000526,Dang Van Phu,Chuyen vien,16|11|1985,3100000
+CB,Can bo,2014000527,Tran Thi Quy,Tro ly,28|01|1982,3400000
+TC,Tai chinh,2014000528,Nguyen Van Son,Ke toan,09|03|1988,4800000
+HC,Hau can,2014000529,Le Thi Thang,Nhan vien,21|05|1983,3200000
+TM,Tham muu,2014000530,Pham Van Thuy,Nhan vien,12|07|1990,3100000
+NS,Nhan su,2014000531,Hoang Thi Toan,Nhan vien,04|09|1986,3300000
+CT,Chinh tri,2014000532,Dang Van Vinh,Nhan vien,16|11|1981,4805000
+KD,Kinh doanh,2014000533,Tran Thi Xuan,Chuyen vien,28|01|1987,3400000
+IT,Cong nghe thong tin,2014000534,Nguyen Van Anh,Lap trinh vien,09|03|1992,4500000
+MK,Marketing,2014000535,Le Thi Be,Chuyen vien,21|05|1985,3100000
+CB,Can bo,2014000536,Pham Van Cuong,Thu ky,12|07|1983,3050000
+TC,Tai chinh,2014000537,Hoang Thi Diem,Ke toan,04|09|1989,4800000
+NS,Nhan su,2014000538,Dang Van Duc,Nhan vien,16|11|1984,3300000
+CT,Chinh tri,2014000539,Tran Thi Ha,Nhan vien,28|01|1990,4805000
+KD,Kinh doanh,2014000540,Nguyen Van Hiep,Quan ly du an,09|03|1985,3500000
+IT,Cong nghe thong tin,2014000541,Le Thi Hong,Lap trinh vien,21|05|1981,4200000
+HC,Hau can,2014000542,Pham Van Khanh,Nhan vien,12|07|1987,3200000
+TM,Tham muu,2014000543,Hoang Thi Linh,Nhan vien,04|09|1982,3100000
+NS,Nhan su,2014000544,Dang Van Minh,Nhan vien,16|11|1990,3300000
+CT,Chinh tri,2014000545,Tran Thi Nga,Nhan vien,28|01|1986,4805000
+CB,Can bo,2014000546,Nguyen Van Phu,Thu ky,09|03|1983,3050000
+TC,Tai chinh,2014000547,Le Thi Quy,Ke toan,21|05|1989,4800000
+KD,Kinh doanh,2014000548,Pham Van Son,Chuyen vien,12|07|1984,3400000
+IT,Cong nghe thong tin,2014000549,Hoang Thi Thang,Lap trinh vien,04|09|1991,4500000
+MK,Marketing,2014000550,Dang Van Thuy,Chuyen vien,16|11|1985,3100000
+CB,Can bo,2014000551,Tran Thi Toan,Tro ly,28|01|1982,3400000
+TC,Tai chinh,2014000552,Nguyen Van Vinh,Ke toan,09|03|1988,4800000
+HC,Hau can,2014000553,Le Thi Xuan,Nhan vien,21|05|1983,3200000
+TM,Tham muu,2014000554,Pham Van Anh,Nhan vien,12|07|1990,3100000
+NS,Nhan su,2014000555,Hoang Thi Be,Nhan vien,04|09|1986,3300000
+CT,Chinh tri,2014000556,Dang Van Cuong,Nhan vien,16|11|1981,4805000
+KD,Kinh doanh,2014000557,Tran Thi Diem,Chuyen vien,28|01|1987,3400000
+IT,Cong nghe thong tin,2014000558,Nguyen Van Duc,Lap trinh vien,09|03|1992,4500000
+MK,Marketing,2014000559,Le Thi Ha,Chuyen vien,21|05|1985,3100000
+QT,Quan tri,2025000001,Nguyen Van An,Quan ly,15|03|1975,8500000
+KT,Ke toan,2025000002,Tran Thi Binh,Ke toan vien,22|07|1980,6000000
+CN,Cong nghe,2025000003,Le Van Cuc,Ky su,10|11|1985,7200000
+NV,Nghien cuu,2025000004,Pham Thi Dung,Chuyen vien,05|04|1990,6800000
+DV,Dich vu,2025000005,Hoang Van Hai,Tro ly,19|09|1978,5500000
+PT,Phat trien san pham,2025000006,Vu Thi Huong,Ky su,12|12|1982,7500000
+QL,Quan ly chat luong,2025000007,Do Van Khanh,Quan ly,30|06|1987,8000000
+KD,Kinh doanh,2025000008,Ngo Thi Linh,Chuyen vien,25|02|1993,6500000
+MK,Marketing,2025000009,Bui Van Minh,Chuyen vien,08|08|1980,6200000
+TK,Thiet ke,2025000010,Duong Thi Nga,Thiet ke vien,14|05|1985,7000000
+QT,Quan tri,2025000011,Nguyen Van Phuc,Quan ly,03|10|1979,8700000
+KT,Ke toan,2025000012,Tran Thi Quang,Ke toan vien,27|01|1988,5900000
+CN,Cong nghe,2025000013,Le Van Son,Ky su,16|04|1983,7400000
+NV,Nghien cuu,2025000014,Pham Thi Tam,Chuyen vien,09|09|1992,6700000
+DV,Dich vu,2025000015,Hoang Van Van,Tro ly,21|11|1986,5400000
+PT,Phat trien san pham,2025000016,Vu Thi An,Ky su,07|06|1981,7600000
+QL,Quan ly chat luong,2025000017,Do Van Binh,Quan ly,18|03|1977,8200000
+KD,Kinh doanh,2025000018,Ngo Thi Cuc,Chuyen vien,12|08|1989,6400000
+MK,Marketing,2025000019,Bui Van Dung,Chuyen vien,29|10|1984,6100000
+TK,Thiet ke,2025000020,Duong Thi Hai,Thiet ke vien,04|02|1990,6900000
+QT,Quan tri,2025000021,Nguyen Van Huong,Nhan vien,23|05|1976,5300000
+KT,Ke toan,2025000022,Tran Thi Khanh,Ke toan vien,11|07|1988,5800000
+CN,Cong nghe,2025000023,Le Van Linh,Ky su,17|09|1983,7300000
+NV,Nghien cuu,2025000024,Pham Thi Minh,Chuyen vien,06|12|1991,6600000
+DV,Dich vu,2025000025,Hoang Van Nga,Tro ly,28|02|1985,5200000
+PT,Phat trien san pham,2025000026,Vu Thi Phuc,Ky su,15|04|1979,7700000
+QL,Quan ly chat luong,2025000027,Do Van Quang,Quan ly,09|06|1987,8100000
+KD,Kinh doanh,2025000028,Ngo Thi Son,Chuyen vien,22|08|1982,6300000
+MK,Marketing,2025000029,Bui Van Tam,Chuyen vien,14|10|1990,6000000
+TK,Thiet ke,2025000030,Duong Thi Van,Thiet ke vien,03|12|1986,6800000
+QT,Quan tri,2025000031,Nguyen Van An,Nhan vien,19|03|1981,5400000
+KT,Ke toan,2025000032,Tran Thi Binh,Ke toan vien,27|05|1990,5700000
+CN,Cong nghe,2025000033,Le Van Cuc,Ky su,11|07|1984,7400000
+NV,Nghien cuu,2025000034,Pham Thi Dung,Chuyen vien,05|09|1992,6500000
+DV,Dich vu,2025000035,Hoang Van Hai,Tro ly,23|11|1988,5100000
+PT,Phat trien san pham,2025000036,Vu Thi Huong,Ky su,08|01|1983,7600000
+QL,Quan ly chat luong,2025000037,Do Van Khanh,Quan ly,16|03|1990,8300000
+KD,Kinh doanh,2025000038,Ngo Thi Linh,Chuyen vien,12|05|1985,6200000
+MK,Marketing,2025000039,Bui Van Minh,Chuyen vien,29|07|1981,6100000
+TK,Thiet ke,2025000040,Duong Thi Nga,Thiet ke vien,04|09|1987,6900000
+QT,Quan tri,2025000041,Nguyen Van Phuc,Nhan vien,21|11|1982,5500000
+KT,Ke toan,2025000042,Tran Thi Quang,Ke toan vien,06|12|1989,5800000
+CN,Cong nghe,2025000043,Le Van Son,Ky su,28|01|1984,7500000
+NV,Nghien cuu,2025000044,Pham Thi Tam,Chuyen vien,09|05|1991,6400000
+DV,Dich vu,2025000045,Hoang Van Van,Tro ly,21|07|1986,5200000
+PT,Phat trien san pham,2025000046,Vu Thi An,Ky su,12|09|1982,7700000
+QL,Quan ly chat luong,2025000047,Do Van Binh,Quan ly,04|11|1988,8100000
+KD,Kinh doanh,2025000048,Ngo Thi Cuc,Chuyen vien,16|01|1983,6300000
+MK,Marketing,2025000049,Bui Van Dung,Chuyen vien,28|03|1990,6000000
+TK,Thiet ke,2025000050,Duong Thi Hai,Thiet ke vien,09|05|1985,6800000
+QT,Quan tri,2025000051,Nguyen Van Huong,Quan ly,21|07|1981,8600000
+KT,Ke toan,2025000052,Tran Thi Khanh,Ke toan vien,12|09|1987,5900000
+CN,Cong nghe,2025000053,Le Van Linh,Ky su,04|11|1982,7400000
+NV,Nghien cuu,2025000054,Pham Thi Minh,Chuyen vien,16|01|1989,6500000
+DV,Dich vu,2025000055,Hoang Van Nga,Tro ly,28|03|1984,5100000
+PT,Phat trien san pham,2025000056,Vu Thi Phuc,Ky su,09|05|1990,7600000
+QL,Quan ly chat luong,2025000057,Do Van Quang,Quan ly,21|07|1985,8200000
+KD,Kinh doanh,2025000058,Ngo Thi Son,Chuyen vien,12|09|1981,6400000
+MK,Marketing,2025000059,Bui Van Tam,Chuyen vien,04|11|1987,6100000
+TK,Thiet ke,2025000060,Duong Thi Van,Thiet ke vien,16|01|1982,6900000
+QT,Quan tri,2025000061,Nguyen Van An,Nhan vien,28|03|1988,5500000
+KT,Ke toan,2025000062,Tran Thi Binh,Ke toan vien,09|05|1983,5700000
+CN,Cong nghe,2025000063,Le Van Cuc,Ky su,21|07|1989,7300000
+NV,Nghien cuu,2025000064,Pham Thi Dung,Chuyen vien,12|09|1984,6600000
+DV,Dich vu,2025000065,Hoang Van Hai,Tro ly,04|11|1990,5200000
+PT,Phat trien san pham,2025000066,Vu Thi Huong,Ky su,16|01|1985,7700000
+QL,Quan ly chat luong,2025000067,Do Van Khanh,Quan ly,28|03|1981,8100000
+KD,Kinh doanh,2025000068,Ngo Thi Linh,Chuyen vien,09|05|1987,6300000
+MK,Marketing,2025000069,Bui Van Minh,Chuyen vien,21|07|1982,6000000
+TK,Thiet ke,2025000070,Duong Thi Nga,Thiet ke vien,12|09|1988,6800000
+QT,Quan tri,2025000071,Nguyen Van Phuc,Quan ly,04|11|1983,8700000
+KT,Ke toan,2025000072,Tran Thi Quang,Ke toan vien,16|01|1989,5900000
+CN,Cong nghe,2025000073,Le Van Son,Ky su,28|03|1984,7400000
+NV,Nghien cuu,2025000074,Pham Thi Tam,Chuyen vien,09|05|1990,6500000
+DV,Dich vu,2025000075,Hoang Van Van,Tro ly,21|07|1985,5100000
+PT,Phat trien san pham,2025000076,Vu Thi An,Ky su,12|09|1981,7600000
+QL,Quan ly chat luong,2025000077,Do Van Binh,Quan ly,04|11|1987,8200000
+KD,Kinh doanh,2025000078,Ngo Thi Cuc,Chuyen vien,16|01|1982,6400000
+MK,Marketing,2025000079,Bui Van Dung,Chuyen vien,28|03|1988,6100000
+TK,Thiet ke,2025000080,Duong Thi Hai,Thiet ke vien,09|05|1983,6900000
+QT,Quan tri,2025000081,Nguyen Van Huong,Nhan vien,21|07|1989,5500000
+KT,Ke toan,2025000082,Tran Thi Khanh,Ke toan vien,12|09|1984,5700000
+CN,Cong nghe,2025000083,Le Van Linh,Ky su,04|11|1990,7400000
+NV,Nghien cuu,2025000084,Pham Thi Minh,Chuyen vien,16|01|1985,6600000
+DV,Dich vu,2025000085,Hoang Van Nga,Tro ly,28|03|1981,5200000
+PT,Phat trien san pham,2025000086,Vu Thi Phuc,Ky su,09|05|1987,7700000
+QL,Quan ly chat luong,2025000087,Do Van Quang,Quan ly,21|07|1982,8100000
+KD,Kinh doanh,2025000088,Ngo Thi Son,Chuyen vien,12|09|1988,6300000
+MK,Marketing,2025000089,Bui Van Tam,Chuyen vien,04|11|1983,6100000
+TK,Thiet ke,2025000090,Duong Thi Van,Thiet ke vien,16|01|1989,6900000
+QT,Quan tri,2025000091,Nguyen Van An,Nhan vien,28|03|1984,5500000
+KT,Ke toan,2025000092,Tran Thi Binh,Ke toan vien,09|05|1990,5700000
+CN,Cong nghe,2025000093,Le Van Cuc,Ky su,21|07|1985,7300000
+NV,Nghien cuu,2025000094,Pham Thi Dung,Chuyen vien,12|09|1981,6600000
+DV,Dich vu,2025000095,Hoang Van Hai,Tro ly,04|11|1987,5200000
+PT,Phat trien san pham,2025000096,Vu Thi Huong,Ky su,16|01|1982,7700000
+QL,Quan ly chat luong,2025000097,Do Van Khanh,Quan ly,28|03|1988,8200000
+KD,Kinh doanh,2025000098,Ngo Thi Linh,Chuyen vien,09|05|1983,6300000
+MK,Marketing,2025000099,Bui Van Minh,Chuyen vien,21|07|1989,6100000
+TK,Thiet ke,2025000100,Duong Thi Nga,Thiet ke vien,12|09|1984,6900000
+QT,Quan tri,2025000101,Nguyen Van Phuc,Quan ly,04|11|1990,8700000
+KT,Ke toan,2025000102,Tran Thi Quang,Ke toan vien,16|01|1985,5900000
+CN,Cong nghe,2025000103,Le Van Son,Ky su,28|03|1981,7400000
+NV,Nghien cuu,2025000104,Pham Thi Tam,Chuyen vien,09|05|1987,6500000
+DV,Dich vu,2025000105,Hoang Van Van,Tro ly,21|07|1982,5100000
+PT,Phat trien san pham,2025000106,Vu Thi An,Ky su,12|09|1988,7600000
+QL,Quan ly chat luong,2025000107,Do Van Binh,Quan ly,04|11|1983,8200000
+KD,Kinh doanh,2025000108,Ngo Thi Cuc,Chuyen vien,16|01|1989,6400000
+MK,Marketing,2025000109,Bui Van Dung,Chuyen vien,28|03|1984,6100000
+TK,Thiet ke,2025000110,Duong Thi Hai,Thiet ke vien,09|05|1990,6900000
+QT,Quan tri,2025000111,Nguyen Van Huong,Nhan vien,21|07|1985,5500000
+KT,Ke toan,2025000112,Tran Thi Khanh,Ke toan vien,12|09|1981,5700000
+CN,Cong nghe,2025000113,Le Van Linh,Ky su,04|11|1987,7400000
+NV,Nghien cuu,2025000114,Pham Thi Minh,Chuyen vien,16|01|1982,6600000
+DV,Dich vu,2025000115,Hoang Van Nga,Tro ly,28|03|1988,5200000
+PT,Phat trien san pham,2025000116,Vu Thi Phuc,Ky su,09|05|1983,7700000
+QL,Quan ly chat luong,2025000117,Do Van Quang,Quan ly,21|07|1989,8100000
+KD,Kinh doanh,2025000118,Ngo Thi Son,Chuyen vien,12|09|1984,6300000
+MK,Marketing,2025000119,Bui Van Tam,Chuyen vien,04|11|1990,6100000
+TK,Thiet ke,2025000120,Duong Thi Van,Thiet ke vien,16|01|1985,6900000
+QT,Quan tri,2025000121,Nguyen Van An,Nhan vien,28|03|1981,5500000
+KT,Ke toan,2025000122,Tran Thi Binh,Ke toan vien,09|05|1987,5700000
+CN,Cong nghe,2025000123,Le Van Cuc,Ky su,21|07|1982,7300000
+NV,Nghien cuu,2025000124,Pham Thi Dung,Chuyen vien,12|09|1988,6600000
+DV,Dich vu,2025000125,Hoang Van Hai,Tro ly,04|11|1983,5200000
+PT,Phat trien san pham,2025000126,Vu Thi Huong,Ky su,16|01|1989,7700000
+QL,Quan ly chat luong,2025000127,Do Van Khanh,Quan ly,28|03|1984,8200000
+KD,Kinh doanh,2025000128,Ngo Thi Linh,Chuyen vien,09|05|1990,6300000
+MK,Marketing,2025000129,Bui Van Minh,Chuyen vien,21|07|1985,6100000
+TK,Thiet ke,2025000130,Duong Thi Nga,Thiet ke vien,12|09|1981,6900000
+QT,Quan tri,2025000131,Nguyen Van Phuc,Quan ly,04|11|1987,8700000
+KT,Ke toan,2025000132,Tran Thi Quang,Ke toan vien,16|01|1982,5900000
+CN,Cong nghe,2025000133,Le Van Son,Ky su,28|03|1988,7400000
+NV,Nghien cuu,2025000134,Pham Thi Tam,Chuyen vien,09|05|1983,6500000
+DV,Dich vu,2025000135,Hoang Van Van,Tro ly,21|07|1989,5100000
+PT,Phat trien san pham,2025000136,Vu Thi An,Ky su,12|09|1984,7600000
+QL,Quan ly chat luong,2025000137,Do Van Binh,Quan ly,04|11|1990,8200000
+KD,Kinh doanh,2025000138,Ngo Thi Cuc,Chuyen vien,16|01|1985,6400000
+MK,Marketing,2025000139,Bui Van Dung,Chuyen vien,28|03|1981,6100000
+TK,Thiet ke,2025000140,Duong Thi Hai,Thiet ke vien,09|05|1987,6900000
+QT,Quan tri,2025000141,Nguyen Van Huong,Nhan vien,21|07|1982,5500000
+KT,Ke toan,2025000142,Tran Thi Khanh,Ke toan vien,12|09|1988,5700000
+CN,Cong nghe,2025000143,Le Van Linh,Ky su,04|11|1983,7400000
+NV,Nghien cuu,2025000144,Pham Thi Minh,Chuyen vien,16|01|1989,6600000
+DV,Dich vu,2025000145,Hoang Van Nga,Tro ly,28|03|1984,5200000
+PT,Phat trien san pham,2025000146,Vu Thi Phuc,Ky su,09|05|1990,7700000
+QL,Quan ly chat luong,2025000147,Do Van Quang,Quan ly,21|07|1985,8100000
+KD,Kinh doanh,2025000148,Ngo Thi Son,Chuyen vien,12|09|1981,6300000
+MK,Marketing,2025000149,Bui Van Tam,Chuyen vien,04|11|1987,6100000
+TK,Thiet ke,2025000150,Duong Thi Van,Thiet ke vien,16|01|1982,6900000
+QT,Quan tri,2025000151,Nguyen Van An,Nhan vien,28|03|1988,5500000
+KT,Ke toan,2025000152,Tran Thi Binh,Ke toan vien,09|05|1983,5700000
+CN,Cong nghe,2025000153,Le Van Cuc,Ky su,21|07|1989,7300000
